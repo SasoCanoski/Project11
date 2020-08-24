@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Project11/static/css/main.c66cc1b6.chunk.css",
+    "main.js": "/Project11/static/js/main.5005f17b.chunk.js",
+    "main.js.map": "/Project11/static/js/main.5005f17b.chunk.js.map",
+    "runtime-main.js": "/Project11/static/js/runtime-main.9c1431fb.js",
+    "runtime-main.js.map": "/Project11/static/js/runtime-main.9c1431fb.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/Project11/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.69157d9c.chunk.js": "/Project11/static/js/2.69157d9c.chunk.js",
+    "static/js/2.69157d9c.chunk.js.map": "/Project11/static/js/2.69157d9c.chunk.js.map",
+    "index.html": "/Project11/index.html",
+    "precache-manifest.fffeff2a58cb413f99a42a8712cc2026.js": "/Project11/precache-manifest.fffeff2a58cb413f99a42a8712cc2026.js",
+    "service-worker.js": "/Project11/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/Project11/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.c66cc1b6.chunk.css.map": "/Project11/static/css/main.c66cc1b6.chunk.css.map",
+    "static/js/2.69157d9c.chunk.js.LICENSE.txt": "/Project11/static/js/2.69157d9c.chunk.js.LICENSE.txt",
+    "static/media/brainster.png": "/Project11/static/media/brainster.d0842fa9.png",
+    "static/media/data-science.jpg": "/Project11/static/media/data-science.4e882a65.jpg",
+    "static/media/design.jpg": "/Project11/static/media/design.15ddfcb2.jpg",
+    "static/media/marketing.jpg": "/Project11/static/media/marketing.241f0e3f.jpg",
+    "static/media/uxui.jpg": "/Project11/static/media/uxui.52b571c6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c1431fb.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.69157d9c.chunk.js",
+    "static/css/main.c66cc1b6.chunk.css",
+    "static/js/main.5005f17b.chunk.js"
+  ]
+}
